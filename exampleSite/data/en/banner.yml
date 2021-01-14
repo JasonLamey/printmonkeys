@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: "/images/3d-printing-timeline-header.webp"
   bg_image: "/images/3d-printing-timeline-header.gif"
   icon: ''
   title: Bringing Your Ideas Into Reality
