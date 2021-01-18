@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : Considerate Slicing
       icon : ti-slice # themify icon pack : https://themify.me/themify-icons
-      content : We work to ensure slicing doesn't compromise the strength and stability of each part of your model.
+      content : Our slicing doesn't compromise the strength and stability of each part of your model.
       
     # service item loop
     - name : Post-print Cleanup
