@@ -14,14 +14,14 @@ service:
       content : We account for stress on your model and potential forces it may undergo during use. We work to ensure slicing doesn't compromise the strength and stability of each part of your model.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Post-print Cleanup
+      icon : ti-eraser # themify icon pack : https://themify.me/themify-icons
+      content : All prints undergo general cleanup, which includes edge cleanup; removal of any imperfections, stringing, or bumps; and removal of any print support material.
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Safe Shipping
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : We pack all prints securely to ensure no shifting in the box during transport. Package tracking is always included.
       
     # service item loop
     - name : Apps Development
