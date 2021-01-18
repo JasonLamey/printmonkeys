@@ -9,19 +9,19 @@ service:
       content : We quickly process your files to ensure model integrity and print quality.
       
     # service item loop
-    - name : Intelligent Slicing
+    - name : Considerate Slicing
       icon : ti-slice # themify icon pack : https://themify.me/themify-icons
-      content : We account for stress on your model and potential forces it may undergo during use. We work to ensure slicing doesn't compromise the strength and stability of each part of your model.
+      content : We work to ensure slicing doesn't compromise the strength and stability of each part of your model.
       
     # service item loop
     - name : Post-print Cleanup
       icon : ti-eraser # themify icon pack : https://themify.me/themify-icons
-      content : All prints undergo general cleanup, which includes edge cleanup; removal of any imperfections, stringing, or bumps; and removal of any print support material.
+      content : All prints undergo general cleanup of minor imperfections and supports.
       
     # service item loop
     - name : Safe Shipping
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : We pack all prints securely to ensure no shifting in the box during transport. Package tracking is always included.
+      content : We pack all prints securely to ensure no shifting in the box during transport.
       
     # service item loop
     - name : Small Run Friendly
