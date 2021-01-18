@@ -24,11 +24,11 @@ service:
       content : We pack all prints securely to ensure no shifting in the box during transport. Package tracking is always included.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Small Run Friendly
+      icon : ti-more # themify icon pack : https://themify.me/themify-icons
+      content : Small mutli-print runs of up to 50 copies of a print are welcome.
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Affordable
+      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
+      content : Fair but competatively priced servies to match your needs.
