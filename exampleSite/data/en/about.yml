@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+    title : We Communicate
+    content : We keep you informed every step of the way. Despite best practices, sometimes changes to a plan crop up. We keep you involved when they do.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+    title : We Collaborate
+    content : This is your print. We work with you to ensure your goals are met. And if changes need to be made, we consult with you to ensure those changes continue to achieve your goals.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Creative
+    content : 3D printing isn't just something we just to make money. We're passionate about it, and love making stuff. Let us share that passion with you.
