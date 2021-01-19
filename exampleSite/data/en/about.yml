@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
     title : We Communicate
-    content : We keep you informed every step of the way. Despite best practices, sometimes changes to a plan crop up. We keep you involved when they do.
+    content : We keep you informed every step of the way. From your initial estimate to the final shipping notice, we proactively keep you up to date.
 
   - icon : ti-comments # themify icon pack : https://themify.me/themify-icons
     title : We Collaborate
