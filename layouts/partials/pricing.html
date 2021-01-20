@@ -31,7 +31,7 @@
           {{"<!-- plan description -->" | safeHTML}}
           <ul>
             {{ range .services }}
-            <li>{{ . }}</li>
+            <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
 
