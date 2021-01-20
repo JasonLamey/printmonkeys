@@ -1,11 +1,12 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Services
+  title : "Our Services"
   pricing_table :
     # pricing table loop
-    - name : Standard Printing
-      price : Depends on needs
+    - name : "Standard Printing"
+      price : "Depends on needs"
+      unit : ""
       services:
         - Printing of up to 50 units per model
         - Cleanup of minor printing artifacts
@@ -19,7 +20,7 @@ pricing:
     # pricing table loop
     - name : Smoothed
       price : $75
-      unit : addl fee
+      unit : "addl fee"
       services:
         - Either chemical smoothing or manual sanding
         - Chemical smoothing available for PLA, PLA+, ABS, PETG
@@ -31,9 +32,9 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : Smoothed & Primed
+    - name : "Smoothed &amp; Primed"
       price : $150
-      unit : addl fee
+      unit : "addl fee"
       services:
         - All features of "Smoothed"
         - Application of multiple coats of primer
@@ -43,9 +44,9 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : The Full Monty
+    - name : "The Full Monty"
       price : $200-350
-      unit : addl fee
+      unit : "addl fee"
       services:
         - All features of "Smoothed & Primed"
         - Hand-painting of feature details
