@@ -1,11 +1,11 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : "Our Services"
+  title : "Our Pricing"
   pricing_table :
     # pricing table loop
     - name : "Printed"
-      price : "Varies"
+      price : "Varies*"
       unit : ""
       services:
         - Printing of up to 50 units/model
@@ -43,7 +43,7 @@ pricing:
         
     # pricing table loop
     - name : "Finished"
-      price : $200-350*
+      price : $200-350**
       unit : "addl fee"
       services:
         - All features of "Primed"
