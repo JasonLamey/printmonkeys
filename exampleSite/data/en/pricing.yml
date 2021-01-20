@@ -1,64 +1,57 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Our Services
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Standard Printing
+      price : Depends on needs
+      unit : 
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Printing of up to 50 units per model
+        - Cleanup of minor printing artifacts
+        - Photos of final prints for approval
+        - Careful, protective packing
+        - Shipping with tracking
       button:
-        label : "Signup"
+        label : "Get A Quote"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Smoothed
+      price : $75
+      unit : addl fee
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Either chemical smoothing or manual sanding
+        - Chemical smoothing available for PLA, PLA+, ABS, PETG
+        - Sanding with multiple grits to smooth model
+        - Added filler to remove holes and gaps
+        - Hot water/ISA bath to remove dust
       button:
-        label : "Signup"
+        label : "Get A Quote"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Smoothed & Primed
+      price : $150
+      unit : addl fee
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - All features of "Smoothed"
+        - Application of multiple coats of primer
+        - Sanding between multiple coats
       button:
-        label : "Signup"
+        label : "Get A Quote"
         link : "#"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
+    - name : The Full Monty
+      price : $200-350
+      unit : addl fee
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - All features of "Smoothed & Primed"
+        - Hand-painting of feature details
+        - Applied paint sealant
+        - Fees depend upon model detail, and painting requirements
       button:
-        label : "Signup"
+        label : "Get A Quote"
         link : "#"
