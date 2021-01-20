@@ -22,7 +22,7 @@ pricing:
       price : $75
       unit : "addl fee"
       services:
-        - Chemical smoothing or manual sanding
+        - Chemical smoothing <i>or</i> manual sanding
         - Chemical smoothing available for PLA, PLA+, ABS, PETG
         - Sanding with multiple grits to smooth model
         - Added filler to remove holes and gaps
@@ -38,7 +38,8 @@ pricing:
       services:
         - All features of "Smoothed"
         - Application of multiple coats of primer
-        - Sanding between multiple coats
+        - Sanding between primer coats
+        - Cleaned of all dust
       button:
         label : "Get A Quote"
         link : "#"
