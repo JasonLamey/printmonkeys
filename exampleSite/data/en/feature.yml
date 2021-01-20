@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re 3D Printing Enthusiasts.
+  content : "We love 3D printing. It's in our makeup. Creating tangable items from ideas is a passion that never fails to enthral us. And we love a good challenge. Work with us to make your challenging ideas manifest."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Constantly Growing
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      content : We constantly work to build not only our business, but also the range of technologies we can put to work building your projects.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Constantly Learning
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : The 3D printing industry is evolving quickly. We refuse to lock ourselves into a single solution, instead focusing on finding the best solutions for different types of prints.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Privacy Minded
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
+      content : Your files are yours. What you give us to print is used only for your print orders, and then deleted. With your permission, we share final photos of our work in our gallery, but never your files.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : More Than Printing
+      icon : ti-brush # themify icon pack : https://themify.me/themify-icons
+      content : We offer a range of post-print services that many other 3D printing shops don't, from sanding and priming, to fully detailed painting.
