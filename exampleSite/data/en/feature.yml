@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/Spectrum-Print-head.webp
+  image_webp : images/Spectrum-Print-head.webp
   title : We’re 3D Printing Enthusiasts.
   content : "We love 3D printing. It's in our makeup. Creating tangable items from ideas is a passion that never fails to enthral us. And we love a good challenge. Work with us to make your challenging ideas manifest."
   feature_item : 
