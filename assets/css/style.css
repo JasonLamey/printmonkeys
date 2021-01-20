@@ -849,7 +849,7 @@ a:hover {
   margin: 20px 0;
 }
 
-.pricing > .disclaimer {
+.pricing .disclaimer p {
   font-size: 9px;
 }
 
